@@ -1,0 +1,34 @@
+div {
+    width: 300px;
+    margin: 30px auto;
+    border: 2px solid palevioletred;
+    padding: 30px 15px;
+}
+
+a[href = "https://uk.wikipedia.org/wiki/%D0%A0%D1%96%D0%B7%D0%B4%D0%B2%D0%BE_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B5"] {
+    color: #92de35;
+    font-size: 20px;
+    font-style: italic;
+}
+
+a {
+    color:coral;
+    font-size: 25px;
+    font-style: normal;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    color: darkolivegreen;
+}
+
+h1 {
+    font-family: "Century Gothic";
+}
+
+p, h1 {
+    font-size: 25px;
+}
